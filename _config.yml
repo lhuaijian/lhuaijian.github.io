@@ -36,6 +36,8 @@ analytics: # Google Analytics
 paginate: 6
 paginate_path: /page:num/
 
+favicon: /assets/img/small1.ico
+
 # Build settings
 markdown: kramdown
 
