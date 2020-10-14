@@ -1,14 +1,13 @@
 ---
+layout: post
 title: How to build your own blog
 categories: 
  - tutorial
 date: 2019-06-19 16:49:30
-tags: 
- - github pages
- - jekyll
- - blog
+tags: [github pages, jekyll, blog]
 description: This is a tutorial for teaching how to build your own website
-
+author: Huaijian
+img: post1.jpg
 ---
 
 <!-- more -->
