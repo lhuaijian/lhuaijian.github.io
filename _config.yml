@@ -9,10 +9,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author settings
 author: Huaijian LUO # add your name
 author-pic: huaijian.png
-about-author:
-My name is Huaijian LUO. I am a PhD student in EIE, PolyU, HK. 
-This is a personal website about life and thinking.
-If you wanna connect with me, feel free to send me email.
+about-author: My name is Huaijian LUO. I am a PhD student in EIE, PolyU, HK. This is a personal website about life and thinking. If you wanna connect with me, feel free to send me email.
 
 # Contact links
 email: huaijian.luo@connect.polyu.hk
