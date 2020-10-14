@@ -13,14 +13,15 @@ about-author: My name is Huaijian LUO. I am a PhD student in EIE, PolyU, HK. As 
 
 # Contact links
 email: huaijian.luo@connect.polyu.hk
-phone: # Add your Phone number
-website: lhuaijian.github.io # Add your website, do not add http://
-linkedin: # Add your Linkedin handle
-github: lhuaijian # Add your Github handle
-twitter: # Add your Twitter handle
-facebook: # Add your Facebook handle
-instagram: # Add your Instagram handle
-pinterest: # Add your Pinterest handle
+# phone: # Add your Phone number
+website: lhuaijian.github.io 
+linkedin: https://www.linkedin.com/in/%E6%80%80%E5%81%A5-%E7%BD%97-7a5140133/
+github: https://github.com/lhuaijian 
+researchgate: https://www.researchgate.net/profile/Huaijian_Luo
+# twitter: # Add your Twitter handle
+# facebook: # Add your Facebook handle
+# instagram: # Add your Instagram handle
+# pinterest: # Add your Pinterest handle
 
 # Newsletter
 mailchimp: # Add your MailChimp form identifier.
