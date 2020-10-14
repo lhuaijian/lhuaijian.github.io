@@ -1,25 +1,23 @@
-title: My personal blog - Adam Neilson
-email: your-email@domain.com
+title: My personal blog - Huaijian LUO
+email: lhuaijian@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Keep fire!
 permalink: ':title/'
 baseurl: ""# the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
-author: Adam Neilson # add your name
-author-pic: adam-face.jpg
-about-author: My name is Adam Neilson. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 2 years.
+author: Huaijian LUO # add your name
+author-pic: huaijian.png
+about-author: My name is Huaijian LUO. I am a PhD student in EIE, PolyU, HK. As you can see, this is a personal website about life and thinking. If you wanna connect with me, feel free to send me email.
 
 # Contact links
-email: # Add your Email address
+email: huaijian.luo@connect.polyu.hk
 phone: # Add your Phone number
-website: # Add your website, do not add http://
+website: lhuaijian.github.io # Add your website, do not add http://
 linkedin: # Add your Linkedin handle
-github: artemsheludko # Add your Github handle
-twitter: '@artemsheludko_' # Add your Twitter handle
+github: lhuaijian # Add your Github handle
+twitter: # Add your Twitter handle
 facebook: # Add your Facebook handle
 instagram: # Add your Instagram handle
 pinterest: # Add your Pinterest handle
