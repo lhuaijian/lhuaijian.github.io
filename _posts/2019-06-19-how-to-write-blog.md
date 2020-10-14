@@ -6,9 +6,7 @@ title: How to write a blog in github pages
 categories: 
  - tutorial
 date: 2019-06-19 14:14:30
-tags: 
- - github pages
- - jekyll
+tags: [github pages, jekyll]
 description: This is a tutorial for teaching how to write blog in github pages.
 ---
 
